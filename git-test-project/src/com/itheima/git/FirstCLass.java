@@ -15,5 +15,8 @@ public class FirstCLass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+
+
+        System.out.println("你好");
     }
 }
